@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="seperator" />
+    <item type="id" name="clickbutton" />
+    <item type="id" name="listview" />
+    <item type="id" name="previewLayout" />
+    <item type="id" name="radioGroup1" />
+    <item type="id" name="radio1" />
+    <item type="id" name="radio2" />
+    <item type="id" name="cutter_seekbar" />
+    <item type="id" name="fontTypeName" />
+    <item type="id" name="fontSize" />
+    <item type="id" name="textAlignButton" />
+    <item type="id" name="textAlignImg" />
+    <item type="id" name="changestrokeframebg" />
+</resources>

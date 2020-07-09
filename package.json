@@ -1,14 +1,25 @@
 {
-  "name": "spensdk",
+  "name": "cordova-plugin-assinatura",
   "version": "1.0.0",
-  "description": "The Pen Cordova Plugin provides set of JavaScript APIs to implement the S pen features. This plugin can be used on Samsung devices only.",
-  "main": "index.js",
+  "description": "Plugin cordova para utilização da caneta Samsung Spen em aparelhos compatíveis.",
   "directories": {
     "test": "tests"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": { },
+  "author": "Carlos Toledo (Squad Microcredito Prospera) <p000ctoledo@prservicos.com.br>",
+  "cordova": {
+    "id": "cordova-plugin-assinatura",
+    "platforms": [ "android" ]
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.produbanbr.corp/apps-internos/cordova-plugin-assinatura"
+  },
+  "keywords": [
+    "assinatura",
+    "caneta",
+    "samsung",
+    "cordova",
+    "prospera"
+  ]
 }
